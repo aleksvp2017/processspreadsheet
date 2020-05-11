@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/aleksvp2017/processspreadsheet#readme",
   "dependencies": {
-    "streamifier": "^0.1.1",
     "xlsx": "^0.16.0"
   }
 }
