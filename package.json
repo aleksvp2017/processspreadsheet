@@ -1,0 +1,30 @@
+{
+  "name": "processspreadsheet",
+  "version": "1.0.0",
+  "description": "Little project on how to process a spreadsheet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksvp2017/processspreadsheet.git"
+  },
+  "keywords": [
+    "spread",
+    "sheet",
+    "node.js",
+    "javascript",
+    "backend"
+  ],
+  "author": "Aleksander Velozo Pascoal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksvp2017/processspreadsheet/issues"
+  },
+  "homepage": "https://github.com/aleksvp2017/processspreadsheet#readme",
+  "dependencies": {
+    "streamifier": "^0.1.1",
+    "xlsx": "^0.16.0"
+  }
+}
