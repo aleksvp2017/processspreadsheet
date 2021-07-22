@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/aleksvp2017/processspreadsheet#readme",
   "dependencies": {
-    "xlsx": "^0.16.0"
+    "xlsx": "^0.17.0"
   }
 }
